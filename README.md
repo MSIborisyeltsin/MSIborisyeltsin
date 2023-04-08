@@ -4,7 +4,7 @@
   	<div id="badges">
 		<img src="https://komarev.com/ghpvc/?username=Joomipoll&style=flat-square&color=blue" alt=""/>
 		<br>
-  		<a href="https://web.telegram.org/k/@joomipoll"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/></a>
+  		<a href="https://web.telegram.org/k/#@joomipoll"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/></a>
 	</div>
 </div>
 
