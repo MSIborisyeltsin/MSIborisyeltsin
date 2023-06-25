@@ -32,8 +32,8 @@ I'm freelancer from Russia:
 </div>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joomipoll&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joomipoll&layout=compact&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joomipoll&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joomipoll&theme=neon&hide_border=%D0%9B%D0%9E%D0%96%D0%AC&border_radius=5&locale=sr&card_width=500)](https://git.io/streak-stats)
