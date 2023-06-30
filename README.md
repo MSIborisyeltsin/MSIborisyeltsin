@@ -1,9 +1,10 @@
 <div id="header" align="center">
   	<img src="https://media.giphy.com/media/QXJk9Nsk3YvqwQsPZs/giphy.gif" width="300"/>
-  	<p style=>Hi</p>
+  	<h1>Hi</h1>
   	<div id="badges">
-		<img src="https://komarev.com/ghpvc/?username=Joomipoll&style=flat-square&color=blue" alt=""/>
-		<br>
+		<h3> Profile views: </h3><br>
+		<img src="https://moe-counter.glitch.me/get/@Joomipoll.github.readme" alt=""/>
+		<br><br>
   		<a href="https://web.telegram.org/k/#@joomipoll"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/></a>
 	</div>
 </div>
