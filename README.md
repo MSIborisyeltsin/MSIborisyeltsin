@@ -11,10 +11,9 @@
 ---
 
 ### About Me :
-I'm freelancer from Russia:
-- I’m working as a APCS Engineer at the hydroelectric power station
-- In parallel with this, I am doing pentesting
-- In my free time I sleep
+- I am an electrical engineer at a hydroelectric power station of the 2nd category
+- I have been studying computer science since I was nine years old (since 2011)
+- In my free time I like to go mountain climbing
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
