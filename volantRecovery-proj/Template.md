@@ -1,6 +1,6 @@
 # *Section name*
 
-**License**: *V-ORL license link* <br>
+**License**: *V-ORL (any version) license link. [Template](https://github.com/Joomipoll/Joomipoll/tree/main/volantRecovery-proj/V-ORL)* <br>
 **Browser**: *browser(s) used* <br>
 **Tools**: *tools used* <br>
 **Description**: *description of your find* <br>
