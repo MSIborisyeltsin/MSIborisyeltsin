@@ -5,16 +5,11 @@
 		<h3> Profile views: </h3><br>
 		<img src="https://moe-counter.glitch.me/get/@Joomipoll.github.readme" alt=""/>
 		<br><br>
-  		<a href="https://web.telegram.org/k/#@joomipoll"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/></a>
+  		<a href="https://web.telegram.org/k/#@vietnamsurvivor"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/></a>
 	</div>
 </div>
 
 ---
-
-### About Me :
-- I am an electrical engineer at a hydroelectric power station of the 2nd category
-- I have been studying computer science since I was nine years old (since 2011)
-- In my free time I like to go mountain climbing
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -34,6 +29,7 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL" alt="TSQL" width="50" height="50"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="50" height="50"/>&nbsp
 	<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/>&nbsp;
+ 	<img src="https://github.com/devicons/devicon/blob/master/icons/llvm/llvm-original.svg" title="Clang" alt="Clang" width="50" height="50"/>&nbsp;
 	<br><br>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
