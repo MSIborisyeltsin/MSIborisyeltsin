@@ -3,9 +3,9 @@
   	<h1>Hi</h1>
   	<div id="badges">
 		<h3> Profile views: </h3><br>
-		<img src="https://moe-counter.glitch.me/get/@Joomipoll.github.readme" alt=""/>
+		<img src="https://moe-counter.glitch.me/get/@MSIborisyeltsin.github.readme" alt=""/>
 		<br><br>
-  		<a href="https://web.telegram.org/k/#@vietnamsurvivor"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/></a>
+  		<a href="https://t.me/vietnamsurvivor"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/></a>
 	</div>
 </div>
 
