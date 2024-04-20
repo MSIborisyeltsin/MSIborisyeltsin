@@ -14,7 +14,7 @@
 <div>
 	<img src="https://github.com/MSIborisyeltsin/MSIborisyeltsin/assets/95223648/c761c4bf-fbfb-47bf-9714-b310ff3212dd" title="DigitalHazard" alt="DigitalHazard holdings limited" width="180" height="200" align="left"></img> <br>
 	<p><b>DigitalHazard Holding Limited</b> is an unofficially founded media conglomerate specializing in the development of digital technologies and is also considered to be the owner. It was founded in 2023 and in a short time was able to take a leading position in the darknet market thanks to its professionalism and high quality of services provided. <b>DigitalHazard Holding Limited</b> actively develops and sponsors the areas of <i>artificial intelligence</i>, <i>netstalking</i>, <i>cybersecurity</i> and other modern technologies.</p>
-	<br><br>
+	<br><br><br>
 	<p>Currently it owns:</p>
 	<ul>
 		<li><b>Volant127 org</b> — one of the largest darknet communities of interests. A consortium of darknet people from different industries</li>
