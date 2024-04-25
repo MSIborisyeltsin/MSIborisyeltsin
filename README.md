@@ -10,6 +10,40 @@
 </div>
 
 ---
+### About:
+
+> [!CAUTION]
+> There is unimaginable chaos going on here. All projects are based mainly on the enthusiasm and limits of the competence of their creator. The repositories are primarily an open source of experiments and the success of these experiments is not guaranteed.
+
+:joy: I became interested in computers and cybernetics in the spring of 2018. My journey began with learning the Visual Basic language, the VBS scripting language and a childhood attraction to the BIOS interface
+
+:pirate_flag: I actively promote open source whenever possible
+
+:world_map: I'm neutral in terms of politics, but I've some sober thought that: 
+- Regardless of the current government in the country, your homeland remains your homeland;
+- Regardless of the current government in the country, I think that communication with a foreign citizen is not treason until it crosses the line (active disclosure of strategic information of your state and key enterprises located in it)
+- LGBT rights should be present in every country, but there is no point in holding any mass marches on the street in honor of this (after all, the rights are already recognized and it makes no sense to organize such marches. It’s the same as if heterosexuals held parades)
+- An individual people is not to blame for the actions of their state, even if this people pays taxes, thereby being a “sponsor” of any actions
+- You can express yourself as you like about wars, but you shouldn't discredit the army of your country and insult it, since these are your fellow countrymen
+
+**Stages of knowledge in the field of IT:**
+> Classification of programming knowledge according to Sheo (raw model)
+
+- [x] **General**: Mathematical statistics and probability theory, general physics, computer science
+- [x] **Level 1. Junior**: Arithmetic and physical foundations of computers, theory of algorithms and patterns, high-level programming languages (e.g. interpreted programming languages), working with databases
+- [x] **Level 2. Middle**: C/C++ Basics, OS knowledge(ability to work with a terminal in UNIX and the registry in Windows), Frontend(optional)
+	- [x] UNIX and UNIX-like
+	- [ ] Windows registry
+- [x] **Level 3. Middle/Senior**: Advanced knowledge of operating systems, advanced C/C++, software development
+	- ! Have not yet participated in software development
+- [ ] **Level 4.1. Advanced**: Advanced UI/UX
+- [x] **Level 4.2. Backend/Fullstack Developer**: Computer networks, Web-techonolgies/Backend
+- [x] **Level 5.1. Teamleader**: Team and project management
+- [ ] **Level 5.2. Tester**: Testing
+- [x] **Level 5.3. Hardware-Programmer**: Hardware programming
+- [ ] **Level 6. Advanced Hardware-Programmer**: Understanding or assembling devices
+- [ ] **Level 7. Computer Engineering Guru**: Development of compilers, OS development, architecture of high-load systems
+
 ### :briefcase: I'm a member of :
 <div>
 	<img src="https://github.com/MSIborisyeltsin/MSIborisyeltsin/assets/95223648/c761c4bf-fbfb-47bf-9714-b310ff3212dd" title="DigitalHazard" alt="DigitalHazard holdings limited" width="180" height="200" align="left"></img> <br>
