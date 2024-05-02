@@ -59,6 +59,7 @@
 		<li><b>UnRC</b> — an online laboratory specializing in working with information and conducting research in various fields of knowledge. Testing is carried out there in the field of sociology, cybernetics and other industries that require analytics.</li>
 	</ul>
 </div>
+Contact: digitalhazard3301@dnmx.org
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
