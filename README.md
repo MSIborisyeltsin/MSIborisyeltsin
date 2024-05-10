@@ -35,7 +35,6 @@
 	- [x] UNIX and UNIX-like
 	- [ ] Windows registry
 - [x] **Level 3. Middle/Senior**: Advanced knowledge of operating systems, advanced C/C++, software development
-	- ! Have not yet participated in software development
 - [ ] **Level 4.1. Advanced**: Advanced UI/UX
 - [x] **Level 4.2. Backend/Fullstack Developer**: Computer networks, Web-techonolgies/Backend
 - [x] **Level 5.1. Teamleader**: Team and project management
