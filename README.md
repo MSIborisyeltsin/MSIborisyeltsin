@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  	<img src="https://media.giphy.com/media/QXJk9Nsk3YvqwQsPZs/giphy.gif" width="300"/>
-  	<h1>Hi</h1>
+  	<img src="https://64.media.tumblr.com/658f2d81bc5170c76ea3fbdd3971fdba/tumblr_nyslq170Dc1qhrwxqo1_500.gifv" />
   	<div id="badges">
 		<h3> Profile views: </h3><br>
 		<img src="https://moe-counter.glitch.me/get/@MSIborisyeltsin.github.readme" alt="moe-counter.glitch.me"/>
