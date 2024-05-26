@@ -34,10 +34,10 @@
 	- [x] UNIX and UNIX-like
 	- [ ] Windows registry
 - [x] **Level 3. Middle/Senior**: Advanced knowledge of operating systems, advanced C/C++, software development
-- [ ] **Level 4.1. Advanced**: Advanced UI/UX
+- [x] **Level 4.1. UI/UX**: UI/UX
 - [x] **Level 4.2. Backend/Fullstack Developer**: Computer networks, Web-techonolgies/Backend
 - [x] **Level 5.1. Teamleader**: Team and project management
-- [ ] **Level 5.2. Tester**: Testing
+- [x] **Level 5.2. Tester**: Testing
 - [x] **Level 5.3. Hardware-Programmer**: Hardware programming
 - [ ] **Level 6. Advanced Hardware-Programmer**: Understanding or assembling devices
 - [ ] **Level 7. Computer Engineering Guru**: Development of compilers, OS development, architecture of high-load systems
