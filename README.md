@@ -42,6 +42,7 @@
 - [ ] **Level 6. Advanced Hardware-Programmer**: Understanding or assembling devices
 - [ ] **Level 7. Computer Engineering Guru**: Development of compilers, OS development, architecture of high-load systems
 
+<!--
 ### :briefcase: I'm a member of :
 <div>
 	<img src="https://github.com/MSIborisyeltsin/MSIborisyeltsin/assets/95223648/c761c4bf-fbfb-47bf-9714-b310ff3212dd" title="DigitalHazard" alt="DigitalHazard holdings limited" width="180" height="200" align="left"></img> <br>
@@ -57,6 +58,7 @@
 	</ul>
 </div>
 Contact: digitalhazard3301@dnmx.org
+-->
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
