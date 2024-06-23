@@ -67,7 +67,6 @@ Contact: digitalhazard3301@dnmx.org
 	<img src="https://seeklogo.com/images/N/netwide-assembler-nasm-logo-EC5B1109AC-seeklogo.com.png" title="NASM" alt="NASM" width="50" height="50"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="50" height="50"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JavaScript" width="50" height="50"/>&nbsp;
-	<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="50" height="50"/>&nbsp;
 	<br><br>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
 	<img src="https://github.com/MSIborisyeltsin/MSIborisyeltsin/assets/95223648/fd797ef3-19ac-47d7-99cd-0f02729fdf55" title="VHDL" alt="VHDL" width="50" height="50"/>&nbsp;
@@ -84,6 +83,7 @@ Contact: digitalhazard3301@dnmx.org
 	<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
 	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
  	<img src="https://github.com/devicons/devicon/blob/master/icons/json/json-plain.svg" title="JSON" alt="JSON" width="50" height="50"/>&nbsp;
+ 	<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="50" height="50"/>&nbsp;
 	
 </div>
 <br>
